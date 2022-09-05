@@ -1,13 +1,13 @@
 # Hướng dẫn sử dụng 
 
-## Cloning
+## Nguyễn Nhật Quyền - Ins
 ```
-> git clone https://github.com/TrunqKj3n/TDS_Instagram_Python
-> cd TDS_Instagram_Python
+> git clone https://github.com/nnq2022/tds
+> cd tds
 > Điền token TDS vào file config.json
 ```
 ## Run
 ```
-pip3 install -r require.txt
-python app.py
+pip3 install -r require.txt or pip install -r require.txt
+python nnq.py
 ```
